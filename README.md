@@ -23,15 +23,11 @@ Requirements
 Python 3.7+
 openpyxl
 
-Run the Project
-
-python main.py
+Run the Project - python main.py
 
 Output
 
 Console student reports
 student_reports.xlsx file with all student data
 
-License
-
-MIT License
+License - MIT License
